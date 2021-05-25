@@ -5,8 +5,10 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+  Gatsby's default starter <ins>with TailwindCSS JIT</ins>
 </h1>
+
+I've done the bare minumum to add TailwindCSS to Gatsby's default starter, because I was tired of adding it everytime I started a site.
 
 Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
