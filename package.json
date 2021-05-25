@@ -1,7 +1,7 @@
 {
   "name": "gatsby-starter-default-with-tailwindcss",
   "description": "A simple starter to get up and developing quickly with Gatsby and TailwindCSS with JIT",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Jeremy Mullis",
   "dependencies": {
     "autoprefixer": "^10.2.5",
